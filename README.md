@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on the project [Condhominus](https://github.com/CONDHOMINUS)
 
-- 🌱 I’m currently learning **HTML5, CSS3 and React.**
+- 🌱 I’m currently learning **HTML5, CSS3 and Python.**
 
 # 💻 Tech Stack:
 
