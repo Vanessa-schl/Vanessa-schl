@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vanessa</h1>
 
-- 🔭 I’m currently working on the project [Condhominus](https://github.com/CONDHOMINUS)
-
-- 🌱 I’m currently learning **HTML5, CSS3 and Python.**
-
 # 💻 Tech Stack:
 
 <img align="right" height="150" src="https://i.pinimg.com/564x/ee/97/67/ee9767acd40050b74dd551bc5d1d5258.jpg"  />
